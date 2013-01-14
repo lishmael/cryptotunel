@@ -1,0 +1,4 @@
+#Client configuration file
+@LocalPort 8888 #(Can be changed)
+@ServerIP 169.254.14.223
+@ExternalPort 21

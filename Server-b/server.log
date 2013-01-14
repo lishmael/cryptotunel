@@ -1,0 +1,138 @@
+[10.01.2013 14:49:14.872] External server starting error: The address is protected
+[14.01.2013 09:42:38.652] External server ed successfully at 192.168.1.102 : 32000
+[14.01.2013 09:42:53.180] Server is down
+[14.01.2013 09:43:02.512] External server ed successfully at 192.168.1.102 : 32000
+[14.01.2013 09:44:16.869] External server ed successfully at 192.168.1.102 : 32000
+[14.01.2013 09:46:30.405] New client connected: 192.168.1.102
+[14.01.2013 09:46:55.233] Recived 319 bytes of data from 192.168.1.102 (Client)
+[14.01.2013 09:46:55.295] 319 was sent do (DB)
+[14.01.2013 09:46:55.311] Recived: 426 bytes of data from internal server (DB)
+[14.01.2013 09:46:55.311] Server has sent to the 192.168.1.102 432 bytes of data.
+[14.01.2013 09:46:55.436] Recived 330 bytes of data from 192.168.1.102 (Client)
+[14.01.2013 09:46:55.436] 330 was sent do (DB)
+[14.01.2013 09:46:55.451] Recived: 659 bytes of data from internal server (DB)
+[14.01.2013 09:46:55.451] Server has sent to the 192.168.1.102 664 bytes of data.
+[14.01.2013 09:46:55.467] Recived 326 bytes of data from 192.168.1.102 (Client)
+[14.01.2013 09:46:55.467] 326 was sent do (DB)
+[14.01.2013 09:46:55.483] Recived: 6488 bytes of data from internal server (DB)
+[14.01.2013 09:46:55.483] Server has sent to the 192.168.1.102 6496 bytes of data.
+[14.01.2013 09:46:55.483] Recived 330 bytes of data from 192.168.1.102 (Client)
+[14.01.2013 09:46:55.483] 330 was sent do (DB)
+[14.01.2013 09:46:55.529] Recived: 9259 bytes of data from internal server (DB)
+[14.01.2013 09:46:55.529] Server has sent to the 192.168.1.102 9264 bytes of data.
+[14.01.2013 09:46:55.529] Recived: 1648 bytes of data from internal server (DB)
+[14.01.2013 09:46:55.529] Server has sent to the 192.168.1.102 1656 bytes of data.
+[14.01.2013 09:47:53.107] Recived 345 bytes of data from 192.168.1.102 (Client)
+[14.01.2013 09:47:53.107] 345 was sent do (DB)
+[14.01.2013 09:47:53.169] Recived: 426 bytes of data from internal server (DB)
+[14.01.2013 09:47:53.169] Server has sent to the 192.168.1.102 432 bytes of data.
+[14.01.2013 09:47:53.232] Recived 326 bytes of data from 192.168.1.102 (Client)
+[14.01.2013 09:47:53.232] 326 was sent do (DB)
+[14.01.2013 09:47:53.247] Recived: 6488 bytes of data from internal server (DB)
+[14.01.2013 09:47:53.247] Server has sent to the 192.168.1.102 6496 bytes of data.
+[14.01.2013 09:47:53.279] Recived: 9259 bytes of data from internal server (DB)
+[14.01.2013 09:47:53.294] Server has sent to the 192.168.1.102 9264 bytes of data.
+[14.01.2013 09:47:53.294] Recived: 989 bytes of data from internal server (DB)
+[14.01.2013 09:47:53.294] Server has sent to the 192.168.1.102 992 bytes of data.
+[14.01.2013 09:47:53.310] Recived 340 bytes of data from 192.168.1.102 (Client)
+[14.01.2013 09:47:53.325] 340 was sent do (DB)
+[14.01.2013 09:47:53.357] Recived: 1779 bytes of data from internal server (DB)
+[14.01.2013 09:47:53.357] Server has sent to the 192.168.1.102 1784 bytes of data.
+[14.01.2013 09:47:53.357] Recived: 5 bytes of data from internal server (DB)
+[14.01.2013 09:47:53.357] Server has sent to the 192.168.1.102 8 bytes of data.
+[14.01.2013 09:51:23.960] New client connected: 192.168.1.102
+[14.01.2013 09:51:35.356] Recived 319 bytes of data from 192.168.1.102 (Client)
+[14.01.2013 09:51:35.356] 319 was sent do (DB)
+[14.01.2013 09:51:35.371] Recived: 426 bytes of data from internal server (DB)
+[14.01.2013 09:51:35.371] Server has sent to the 192.168.1.102 432 bytes of data.
+[14.01.2013 09:52:00.263] Recived 352 bytes of data from 192.168.1.102 (Client)
+[14.01.2013 09:52:00.263] 352 was sent do (DB)
+[14.01.2013 09:52:00.279] Recived: 6489 bytes of data from internal server (DB)
+[14.01.2013 09:52:00.279] Server has sent to the 192.168.1.102 6496 bytes of data.
+[14.01.2013 09:52:00.326] Recived: 9259 bytes of data from internal server (DB)
+[14.01.2013 09:52:00.326] Server has sent to the 192.168.1.102 9264 bytes of data.
+[14.01.2013 09:52:00.326] Recived: 989 bytes of data from internal server (DB)
+[14.01.2013 09:52:00.341] Server has sent to the 192.168.1.102 992 bytes of data.
+[14.01.2013 09:52:00.357] Recived 366 bytes of data from 192.168.1.102 (Client)
+[14.01.2013 09:52:00.357] 366 was sent do (DB)
+[14.01.2013 09:52:00.388] Recived: 1779 bytes of data from internal server (DB)
+[14.01.2013 09:52:00.388] Server has sent to the 192.168.1.102 1784 bytes of data.
+[14.01.2013 09:52:00.404] Recived: 5 bytes of data from internal server (DB)
+[14.01.2013 09:52:00.404] Server has sent to the 192.168.1.102 8 bytes of data.
+[14.01.2013 09:52:01.435] Recived 352 bytes of data from 192.168.1.102 (Client)
+[14.01.2013 09:52:01.435] 352 was sent do (DB)
+[14.01.2013 09:52:01.435] Recived: 6488 bytes of data from internal server (DB)
+[14.01.2013 09:52:01.466] Server has sent to the 192.168.1.102 6496 bytes of data.
+[14.01.2013 09:52:01.482] Recived: 9259 bytes of data from internal server (DB)
+[14.01.2013 09:52:01.482] Server has sent to the 192.168.1.102 9264 bytes of data.
+[14.01.2013 09:52:01.498] Recived: 989 bytes of data from internal server (DB)
+[14.01.2013 09:52:01.498] Server has sent to the 192.168.1.102 992 bytes of data.
+[14.01.2013 09:52:01.498] Recived 366 bytes of data from 192.168.1.102 (Client)
+[14.01.2013 09:52:01.513] 366 was sent do (DB)
+[14.01.2013 09:52:01.529] Recived: 1779 bytes of data from internal server (DB)
+[14.01.2013 09:52:01.529] Server has sent to the 192.168.1.102 1784 bytes of data.
+[14.01.2013 09:52:01.545] Recived: 5 bytes of data from internal server (DB)
+[14.01.2013 09:52:01.545] Server has sent to the 192.168.1.102 8 bytes of data.
+[14.01.2013 09:52:01.654] Recived 352 bytes of data from 192.168.1.102 (Client)
+[14.01.2013 09:52:01.654] 352 was sent do (DB)
+[14.01.2013 09:52:01.654] Recived: 6488 bytes of data from internal server (DB)
+[14.01.2013 09:52:01.654] Server has sent to the 192.168.1.102 6496 bytes of data.
+[14.01.2013 09:52:01.701] Recived: 9259 bytes of data from internal server (DB)
+[14.01.2013 09:52:01.701] Server has sent to the 192.168.1.102 9264 bytes of data.
+[14.01.2013 09:52:01.701] Recived: 989 bytes of data from internal server (DB)
+[14.01.2013 09:52:01.701] Server has sent to the 192.168.1.102 992 bytes of data.
+[14.01.2013 09:52:01.716] Recived 366 bytes of data from 192.168.1.102 (Client)
+[14.01.2013 09:52:01.716] 366 was sent do (DB)
+[14.01.2013 09:52:01.732] Recived: 1779 bytes of data from internal server (DB)
+[14.01.2013 09:52:01.732] Server has sent to the 192.168.1.102 1784 bytes of data.
+[14.01.2013 09:52:01.748] Recived: 5 bytes of data from internal server (DB)
+[14.01.2013 09:52:01.748] Server has sent to the 192.168.1.102 8 bytes of data.
+[14.01.2013 09:52:02.263] Recived 352 bytes of data from 192.168.1.102 (Client)
+[14.01.2013 09:52:02.263] 352 was sent do (DB)
+[14.01.2013 09:52:02.263] Recived: 6488 bytes of data from internal server (DB)
+[14.01.2013 09:52:02.263] Server has sent to the 192.168.1.102 6496 bytes of data.
+[14.01.2013 09:52:02.310] Recived: 9259 bytes of data from internal server (DB)
+[14.01.2013 09:52:02.310] Server has sent to the 192.168.1.102 9264 bytes of data.
+[14.01.2013 09:52:02.310] Recived: 989 bytes of data from internal server (DB)
+[14.01.2013 09:52:02.310] Server has sent to the 192.168.1.102 992 bytes of data.
+[14.01.2013 09:52:02.326] Recived 366 bytes of data from 192.168.1.102 (Client)
+[14.01.2013 09:52:02.326] 366 was sent do (DB)
+[14.01.2013 09:52:02.357] Recived: 1779 bytes of data from internal server (DB)
+[14.01.2013 09:52:02.357] Server has sent to the 192.168.1.102 1784 bytes of data.
+[14.01.2013 09:52:02.357] Recived: 5 bytes of data from internal server (DB)
+[14.01.2013 09:52:02.373] Server has sent to the 192.168.1.102 8 bytes of data.
+[14.01.2013 09:52:25.561] Recived 390 bytes of data from 192.168.1.102 (Client)
+[14.01.2013 09:52:25.561] 390 was sent do (DB)
+[14.01.2013 09:52:28.874] Recived 380 bytes of data from 192.168.1.102 (Client)
+[14.01.2013 09:52:28.874] 380 was sent do (DB)
+[14.01.2013 09:54:36.209] Server is down
+[14.01.2013 09:56:38.785] External server ed successfully at 192.168.1.102 : 32000
+[14.01.2013 09:56:46.549] New client connected: 192.168.1.102
+[14.01.2013 09:56:50.568] Recived 319 bytes of data from 192.168.1.102 (Client)
+[14.01.2013 09:56:50.568] 319 was sent do (DB)
+[14.01.2013 09:58:01.029] Recived: 426 bytes of data from internal server (DB)
+[14.01.2013 09:58:01.029] Server has sent to the 192.168.1.102 432 bytes of data.
+[14.01.2013 09:58:02.091] New client connected: 192.168.1.102
+[14.01.2013 09:58:02.091] Recived 319 bytes of data from 192.168.1.102 (Client)
+[14.01.2013 09:58:02.091] 319 was sent do (DB)
+[14.01.2013 09:58:18.991] Recived: 426 bytes of data from internal server (DB)
+[14.01.2013 09:58:18.991] Server has sent to the 192.168.1.102 432 bytes of data.
+[14.01.2013 09:58:18.991] Recived 326 bytes of data from 192.168.1.102 (Client)
+[14.01.2013 09:58:18.991] 326 was sent do (DB)
+[14.01.2013 09:58:21.263] Recived: 16737 bytes of data from internal server (DB)
+[14.01.2013 09:58:22.238] Recived: 0 bytes of data from internal server (DB)
+[14.01.2013 09:58:22.238] Server has sent to the 192.168.1.102 8 bytes of data.
+[14.01.2013 09:58:22.238] Server has sent to the 192.168.1.102 16744 bytes of data.
+[14.01.2013 09:58:22.238] Server has sent to the 192.168.1.102 8 bytes of data.
+[14.01.2013 09:58:22.254] 18 was sent do (DB)
+[14.01.2013 09:58:22.254] Server has sent to the 192.168.1.102 8 bytes of data.
+[14.01.2013 09:58:22.254] 18 was sent do (DB)
+[14.01.2013 09:58:22.254] Server has sent to the 192.168.1.102 8 bytes of data.
+[14.01.2013 09:58:22.269] 18 was sent do (DB)
+[14.01.2013 09:58:22.285] Server has sent to the 192.168.1.102 8 bytes of data.
+[14.01.2013 09:58:22.285] 18 was sent do (DB)
+[14.01.2013 09:58:24.260] Recived 112 bytes of data from 192.168.1.102 (Client)
+[14.01.2013 09:58:24.260] 112 was sent do (DB)
+[14.01.2013 09:58:24.260] Recived: 148 bytes of data from internal server (DB)
+[14.01.2013 09:59:08.451] Client 192.168.1.102 has disconnected
+[14.01.2013 09:59:10.732] Client 192.168.1.102 has disconnected
